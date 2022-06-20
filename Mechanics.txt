@@ -1,0 +1,7 @@
+Mecanicas: Solo disparo y sistema economico in game
+Power ups (temporales): matar de un golpe, escudo, velocidad de disparo.
+Compras en partida: Aumentar salud, recarga rapida, movimiento rapido.
+Compra de armas: (en una cajita que de armas random).
+
+Bonos cada x rondas para mecanicas rogue like, la idea es tener una x
+cantidad de espacios, yo puedo seleccionar 1 de 3 bonos al azar.
